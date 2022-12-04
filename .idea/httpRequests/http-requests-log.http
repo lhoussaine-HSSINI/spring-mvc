@@ -1,0 +1,12 @@
+POST http://localhost:8080/mvcfaho_war_exploded/login
+
+<> 2022-12-03T160807.500.html
+
+###
+
+GET http://localhost:8080/mvcfaho_war_exploded/login
+
+<> 2022-12-03T160749.500.html
+
+###
+
